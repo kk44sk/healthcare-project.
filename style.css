@@ -1,0 +1,12 @@
+img {
+  width: 350px; 
+} 
+
+body {
+  background:grey;
+  color: white;
+}
+
+h1 {
+  font-weight: bold;
+}
